@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-      <h1>This is Punit DevOps Solutions </h1>
-      <p>We Provide Digital Solutions</p>
+      <h1>Welcome to Punit DevOps Solutions</h1>
+      <p>We Provide Digital Solutions For Startup & Team</p>
 
     </>
   )
